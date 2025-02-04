@@ -1,0 +1,9 @@
+locale: "ja-JP"  # 日本語を扱うなら変更しておく
+title: "CoderDojo 小田原(仮)"
+timezone: Asia/Tokyo
+
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
