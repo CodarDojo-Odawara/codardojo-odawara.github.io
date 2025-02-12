@@ -1,5 +1,4 @@
-## To Do
-- [ ] 会場決め  
+## To Do(Last Update:2025.2.12)
 - [ ] 頻度、時期
 - [ ] 大まかな方針  
       ->組織としてのポリシー。(当然CoderDojo憲章は大前提)  
@@ -10,8 +9,9 @@
 - [ ] 準備すべき道具のリストアップ
 - [ ] Portalサイトデザイン
 - [ ] 予約システム立ち上げ(Connpassで構築する)
-- [ ] 新規CoderDojo設立申請
-- [ ] Safeguarding Sponsorになって下さる方を探す
+- [X] 会場決め  
+- [X] 新規CoderDojo設立申請
+- [X] Safeguarding Sponsorになって下さる方を探す
 - [X] 道具を保管する場所の確保
 
 
